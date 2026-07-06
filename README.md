@@ -114,9 +114,10 @@ New posts will be delivered automatically.
 | Command             | Description            |
 | ------------------- | ---------------------- |
 | `/add <rss_url>`    | Bind RSS feed          |
-| `/remove <rss_url>` | Remove feed            |
-| `/bind <rss_id>`    | Bind feed to channel/group         |
+| `/remove <rss_id>` | Remove feed            |
+| `/bind <rss_id>`    | Bind feed to channel/group|
 | `/list`             | Show all subscriptions |
+| `/lang`             | Change language |
 | `/help`             | Show help menu         |
 
 ---
