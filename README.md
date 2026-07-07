@@ -1,5 +1,8 @@
 # Telegram RSS Bot - RssStream (RSS to Telegram Automation)
 
+[![English](https://img.shields.io/badge/Language-English-blue)](./README.md)
+[![简体中文](https://img.shields.io/badge/语言-简体中文-red)](./README.zh-CN.md)
+
 RssStream is a Telegram RSS bot that automatically sends RSS feed updates to your Telegram channels and groups.
 
 If you are looking for a reliable RSS to Telegram bot, RssStream helps you track feeds, push new posts in real time, and manage subscriptions with simple commands.
